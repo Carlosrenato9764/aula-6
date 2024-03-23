@@ -1,0 +1,79 @@
+
+
+
+
+
+
+lista  =[1,2,3,4,456,5,6,78,9,10,11,12]
+
+minimo_da_minha_lista = min(lista)
+maximo_da_minha_lista = max(lista)
+organizar = sorted(lista)
+soma =  sum(lista)
+print('minimo - ', minimo_da_minha_lista)
+print('Maximo - ', maximo_da_minha_lista)
+print('Lista organizada', organizar)
+print('Soma da minha lista', soma)
+
+for i in range(2, 21, 2):
+ print(i)
+numeros = range(1, 6)
+x = 5
+tipo = type(x) 
+
+
+# Definir una variable
+variable = 10
+
+
+# Usar la función type() para verificar el tipo de la variable
+tipo_de_variable = type(variable)
+
+# Imprimir el tipo de la variable
+print("El tipo de la variable es:", tipo_de_variable)
+
+# Solicitar al usuario que ingrese su nombre
+nombre = input("Por favor, ingresa tu nombre: ")
+
+# Imprimir un saludo personalizado
+print("¡Hola,", nombre + "! Bienvenido/a.")
+
+for c in range (1,10,2,):
+    print (c)
+
+ 
+
+ #Imprimir un saludo personalizado
+
+print("¡Hola,", nombre + "! \n olá seja bem vindos no senai   aula de python/a.")
+print( "olá seja bem vindo")
+
+
+
+print (15.5 * 2.4)
+
+n1 = 2
+n2 = 3
+print(n1-n2)
+
+n5 = 2 
+n6 = 3
+print(n5 * n6)
+
+n7 = 10
+dobro = n7 ** 2
+print (dobro)
+ # crie uma calculadora de soma
+
+numero1 = float  (input(">>"))
+numero2 = float (input(">>"))
+soma = numero1 + numero2
+print (soma)
+
+
+
+
+
+
+
+
